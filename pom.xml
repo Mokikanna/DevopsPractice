@@ -12,7 +12,7 @@
 	<artifactId>lombok-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>lombok-example</name>
-	<description>lombok project for Spring Boot</description>
+	<description>lombok project for Spring Boot example</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
